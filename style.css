@@ -324,6 +324,9 @@
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
         align-self: center;
+        padding:20px;
+        margin: 0px;
+        width:90vw;
   }
   .main-heading {
     font-size: 32px;
@@ -336,8 +339,8 @@
     margin-top: 20px;
   }
   .card-container .card {
-    width: 140px;
-    height: 180px;
+    width: 125px;
+    height: 160px;
     margin: 8px;
     padding: 10px;
     font-size: 12px;
@@ -345,8 +348,8 @@
     font-family: 'Poppins',sans-serif;
   }
   .card-img {
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
   }
   .description {
     margin-top: 30px;
