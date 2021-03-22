@@ -228,7 +228,7 @@
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    padding-left: 5%;
+    padding: 4%;
   }
   .nav {
     height: auto;
@@ -330,7 +330,6 @@
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
         align-self: center;
-        padding:20px;
         margin: 0px;
         width:90vw;
         
@@ -376,5 +375,6 @@
     content: "";
   }
 }
+
 
 /*# sourceMappingURL=style.css.map */
